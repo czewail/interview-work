@@ -1,0 +1,44 @@
+{
+  "browser": "154.0.8037.98",
+  "at": "2026-10-10T07:44:46.940Z",
+  "accessibility": [
+    {
+      "path": "/",
+      "violations": []
+    },
+    {
+      "path": "/products/echo-headphones/",
+      "violations": []
+    },
+    {
+      "path": "/cart/",
+      "violations": []
+    },
+    {
+      "path": "/demo-info/",
+      "violations": []
+    },
+    {
+      "path": "/cart/ (populated)",
+      "violations": []
+    },
+    {
+      "path": "/checkout/ (populated)",
+      "violations": []
+    }
+  ],
+  "performance": [
+    {
+      "lcp": 2324,
+      "cls": 0.000369862911135569
+    },
+    {
+      "lcp": 2076,
+      "cls": 0.000369862911135569
+    },
+    {
+      "lcp": 2068,
+      "cls": 0.00036986291113556906
+    }
+  ]
+}

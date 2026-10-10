@@ -1,0 +1,50 @@
+[
+  {
+    "width": 1440,
+    "image": {
+      "x": 56,
+      "y": 378.671875,
+      "width": 110,
+      "height": 110
+    },
+    "overflow": false
+  },
+  {
+    "width": 768,
+    "image": {
+      "x": 40,
+      "y": 363.5,
+      "width": 85,
+      "height": 85
+    },
+    "overflow": false
+  },
+  {
+    "width": 390,
+    "image": {
+      "x": 24,
+      "y": 427.5,
+      "width": 80,
+      "height": 80
+    },
+    "overflow": false
+  },
+  {
+    "width": 320,
+    "image": {
+      "x": 18,
+      "y": 463,
+      "width": 80,
+      "height": 80
+    },
+    "overflow": false
+  },
+  {
+    "checkoutImage": {
+      "x": 18,
+      "y": 2002.5,
+      "width": 44,
+      "height": 44
+    }
+  }
+]

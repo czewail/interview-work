@@ -1,0 +1,3269 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.10.10-v2",
+  "products": [
+    {
+      "id": "P01",
+      "slug": "nova-phone",
+      "name": "Nova Phone",
+      "brand": "Lumio",
+      "model": "P01",
+      "categoryId": "Phones",
+      "description": "Nova Phone brings a considered approach to your everyday setup. 6.2-inch OLED. 128 / 256 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "phones",
+        "6.2-inch oled",
+        "128 / 256 gb storage"
+      ],
+      "images": [
+        "/products/phone.webp",
+        "/products/phone-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "6.2-inch OLED, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Black",
+            "Silver"
+          ]
+        },
+        {
+          "name": "Storage",
+          "values": [
+            "128 GB",
+            "256 GB"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 4,
+      "publishedAt": "2026-09-01",
+      "highlights": [
+        "6.2-inch OLED",
+        "128 / 256 GB storage"
+      ],
+      "packageContents": "Nova Phone, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P02",
+      "slug": "aero-laptop",
+      "name": "Aero Laptop",
+      "brand": "Vela",
+      "model": "P02",
+      "categoryId": "Computers",
+      "description": "Aero Laptop brings a considered approach to your everyday setup. 13.6-inch display. 16 GB RAM · 512 GB SSD. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "13.6-inch display",
+        "16 gb ram · 512 gb ssd"
+      ],
+      "images": [
+        "/products/laptop.webp",
+        "/products/laptop-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "13.6-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "RAM",
+          "values": [
+            "16 GB"
+          ]
+        },
+        {
+          "name": "Storage",
+          "values": [
+            "512 GB"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 7,
+      "publishedAt": "2026-09-02",
+      "highlights": [
+        "13.6-inch display",
+        "16 GB RAM · 512 GB SSD"
+      ],
+      "packageContents": "Aero Laptop, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P03",
+      "slug": "echo-headphones",
+      "name": "Echo Headphones",
+      "brand": "Lumio",
+      "model": "P03",
+      "categoryId": "Audio",
+      "description": "Echo Headphones brings a considered approach to your everyday setup. Active noise cancellation. 30-hour listening. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "active noise cancellation",
+        "30-hour listening"
+      ],
+      "images": [
+        "/products/headphones.webp",
+        "/products/headphones-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Active noise cancellation"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Black",
+            "White"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 1,
+      "publishedAt": "2026-09-03",
+      "highlights": [
+        "Active noise cancellation",
+        "30-hour listening"
+      ],
+      "packageContents": "Echo Headphones, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P04",
+      "slug": "usb-c-cable",
+      "name": "USB C Cable",
+      "brand": "Vela",
+      "model": "P04",
+      "categoryId": "Accessories",
+      "description": "USB C Cable brings a considered approach to your everyday setup. 60 W charging. 1 m braided cable. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "60 w charging",
+        "1 m braided cable"
+      ],
+      "images": [
+        "/products/cable.webp",
+        "/products/cable-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Length",
+          "values": [
+            "1 m"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 10,
+      "publishedAt": "2026-09-04",
+      "highlights": [
+        "60 W charging",
+        "1 m braided cable"
+      ],
+      "packageContents": "USB C Cable, quick-start guide"
+    },
+    {
+      "id": "P05",
+      "slug": "usb-adapter",
+      "name": "USB Adapter",
+      "brand": "Vela",
+      "model": "P05",
+      "categoryId": "Accessories",
+      "description": "USB Adapter brings a considered approach to your everyday setup. USB-C connection. Pocket-sized design. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "usb-c connection",
+        "pocket-sized design"
+      ],
+      "images": [
+        "/products/adapter.webp",
+        "/products/adapter-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [],
+      "status": "active",
+      "featuredRank": 12,
+      "publishedAt": "2026-09-05",
+      "highlights": [
+        "USB-C connection",
+        "Pocket-sized design"
+      ],
+      "packageContents": "USB Adapter, quick-start guide"
+    },
+    {
+      "id": "P06",
+      "slug": "solo-charger",
+      "name": "Solo Charger",
+      "brand": "Orbit",
+      "model": "P06",
+      "categoryId": "Accessories",
+      "description": "Solo Charger brings a considered approach to your everyday setup. 60 W USB-C power. Compact everyday charging. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "60 w usb-c power",
+        "compact everyday charging"
+      ],
+      "images": [
+        "/products/charger.webp",
+        "/products/charger-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [],
+      "status": "active",
+      "featuredRank": 8,
+      "publishedAt": "2026-09-06",
+      "highlights": [
+        "60 W USB-C power",
+        "Compact everyday charging"
+      ],
+      "packageContents": "Solo Charger, quick-start guide"
+    },
+    {
+      "id": "P07",
+      "slug": "pulse-speaker",
+      "name": "Pulse Speaker",
+      "brand": "Orbit",
+      "model": "P07",
+      "categoryId": "Audio",
+      "description": "Pulse Speaker brings a considered approach to your everyday setup. Bluetooth 5.3. Portable sound. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "bluetooth 5.3",
+        "portable sound"
+      ],
+      "images": [
+        "/products/speaker.webp",
+        "/products/speaker-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Black"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 11,
+      "publishedAt": "2026-09-07",
+      "highlights": [
+        "Bluetooth 5.3",
+        "Portable sound"
+      ],
+      "packageContents": "Pulse Speaker, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P08",
+      "slug": "archived-phone",
+      "name": "Archived Phone",
+      "brand": "Lumio",
+      "model": "P08",
+      "categoryId": "Phones",
+      "description": "Archived Phone brings a considered approach to your everyday setup. USB-C. Demo archive. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "phones",
+        "usb-c",
+        "demo archive"
+      ],
+      "images": [
+        "/products/phone.webp",
+        "/products/phone-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "6.2-inch OLED, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [],
+      "status": "archived",
+      "featuredRank": 35,
+      "publishedAt": "2026-09-08",
+      "highlights": [
+        "USB-C",
+        "Demo archive"
+      ],
+      "packageContents": "Archived Phone, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P09",
+      "slug": "retired-hub",
+      "name": "Retired Hub",
+      "brand": "Orbit",
+      "model": "P09",
+      "categoryId": "Accessories",
+      "description": "Retired Hub brings a considered approach to your everyday setup. USB-C. Demo archive. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "usb-c",
+        "demo archive"
+      ],
+      "images": [
+        "/products/hub.webp",
+        "/products/hub-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [],
+      "status": "active",
+      "featuredRank": 36,
+      "publishedAt": "2026-09-09",
+      "highlights": [
+        "USB-C",
+        "Demo archive"
+      ],
+      "packageContents": "Retired Hub, quick-start guide"
+    },
+    {
+      "id": "P10",
+      "slug": "arc-wireless-earbuds",
+      "name": "Arc Wireless Earbuds",
+      "brand": "Vela",
+      "model": "P10",
+      "categoryId": "Audio",
+      "description": "Arc Wireless Earbuds brings a considered approach to your everyday setup. Compact charging case. Bluetooth 5.3. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "compact charging case",
+        "bluetooth 5.3"
+      ],
+      "images": [
+        "/products/earbuds.webp",
+        "/products/earbuds-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 2,
+      "publishedAt": "2026-09-10",
+      "highlights": [
+        "Compact charging case",
+        "Bluetooth 5.3"
+      ],
+      "packageContents": "Arc Wireless Earbuds, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P11",
+      "slug": "studio-monitor",
+      "name": "Studio Monitor",
+      "brand": "Orbit",
+      "model": "P11",
+      "categoryId": "Computers",
+      "description": "Studio Monitor brings a considered approach to your everyday setup. 27-inch display. USB-C connectivity. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "27-inch display",
+        "usb-c connectivity"
+      ],
+      "images": [
+        "/products/monitor.webp",
+        "/products/monitor-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Not specified"
+        },
+        {
+          "label": "RAM",
+          "value": "Not specified"
+        },
+        {
+          "label": "Storage",
+          "value": "Not specified"
+        },
+        {
+          "label": "Display",
+          "value": "27-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C DisplayPort Alt Mode hosts"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 3,
+      "publishedAt": "2026-09-11",
+      "highlights": [
+        "27-inch display",
+        "USB-C connectivity"
+      ],
+      "packageContents": "Studio Monitor, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P12",
+      "slug": "form-mechanical-keyboard",
+      "name": "Form Mechanical Keyboard",
+      "brand": "Vela",
+      "model": "P12",
+      "categoryId": "Accessories",
+      "description": "Form Mechanical Keyboard brings a considered approach to your everyday setup. Tactile switches. Compact layout. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "tactile switches",
+        "compact layout"
+      ],
+      "images": [
+        "/products/keyboard.webp",
+        "/products/keyboard-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 7,
+      "publishedAt": "2026-09-12",
+      "highlights": [
+        "Tactile switches",
+        "Compact layout"
+      ],
+      "packageContents": "Form Mechanical Keyboard, quick-start guide"
+    },
+    {
+      "id": "P13",
+      "slug": "slate-tablet",
+      "name": "Slate Tablet",
+      "brand": "Lumio",
+      "model": "P13",
+      "categoryId": "Computers",
+      "description": "Slate Tablet brings a considered approach to your everyday setup. 11-inch display. 256 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "11-inch display",
+        "256 gb storage"
+      ],
+      "images": [
+        "/products/tablet.webp",
+        "/products/tablet-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "11-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 8,
+      "publishedAt": "2026-09-13",
+      "highlights": [
+        "11-inch display",
+        "256 GB storage"
+      ],
+      "packageContents": "Slate Tablet, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P14",
+      "slug": "pebble-wireless-mouse",
+      "name": "Pebble Wireless Mouse",
+      "brand": "Orbit",
+      "model": "P14",
+      "categoryId": "Accessories",
+      "description": "Pebble Wireless Mouse brings a considered approach to your everyday setup. Quiet clicks. Bluetooth connection. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "quiet clicks",
+        "bluetooth connection"
+      ],
+      "images": [
+        "/products/mouse.webp",
+        "/products/mouse-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 9,
+      "publishedAt": "2026-09-14",
+      "highlights": [
+        "Quiet clicks",
+        "Bluetooth connection"
+      ],
+      "packageContents": "Pebble Wireless Mouse, quick-start guide"
+    },
+    {
+      "id": "P15",
+      "slug": "move-mini-speaker",
+      "name": "Move Mini Speaker",
+      "brand": "Vela",
+      "model": "P15",
+      "categoryId": "Audio",
+      "description": "Move Mini Speaker brings a considered approach to your everyday setup. Portable listening. USB-C charging. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "portable listening",
+        "usb-c charging"
+      ],
+      "images": [
+        "/products/speaker.webp",
+        "/products/speaker-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 10,
+      "publishedAt": "2026-09-15",
+      "highlights": [
+        "Portable listening",
+        "USB-C charging"
+      ],
+      "packageContents": "Move Mini Speaker, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P16",
+      "slug": "nova-phone-plus",
+      "name": "Nova Phone Plus",
+      "brand": "Lumio",
+      "model": "P16",
+      "categoryId": "Phones",
+      "description": "Nova Phone Plus brings a considered approach to your everyday setup. 6.2-inch OLED. 256 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "phones",
+        "6.2-inch oled",
+        "256 gb storage"
+      ],
+      "images": [
+        "/products/phone.webp",
+        "/products/phone-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "6.2-inch OLED, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 11,
+      "publishedAt": "2026-09-16",
+      "highlights": [
+        "6.2-inch OLED",
+        "256 GB storage"
+      ],
+      "packageContents": "Nova Phone Plus, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P17",
+      "slug": "desk-usb-c-hub",
+      "name": "Desk USB-C Hub",
+      "brand": "Orbit",
+      "model": "P17",
+      "categoryId": "Accessories",
+      "description": "Desk USB-C Hub brings a considered approach to your everyday setup. Four-port connection. 60 W pass-through. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "four-port connection",
+        "60 w pass-through"
+      ],
+      "images": [
+        "/products/hub.webp",
+        "/products/hub-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 12,
+      "publishedAt": "2026-09-17",
+      "highlights": [
+        "Four-port connection",
+        "60 W pass-through"
+      ],
+      "packageContents": "Desk USB-C Hub, quick-start guide"
+    },
+    {
+      "id": "P18",
+      "slug": "aero-laptop-air",
+      "name": "Aero Laptop Air",
+      "brand": "Vela",
+      "model": "P18",
+      "categoryId": "Computers",
+      "description": "Aero Laptop Air brings a considered approach to your everyday setup. 13.6-inch display. Lightweight design. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "13.6-inch display",
+        "lightweight design"
+      ],
+      "images": [
+        "/products/laptop.webp",
+        "/products/laptop-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "13.6-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 13,
+      "publishedAt": "2026-09-18",
+      "highlights": [
+        "13.6-inch display",
+        "Lightweight design"
+      ],
+      "packageContents": "Aero Laptop Air, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P19",
+      "slug": "echo-studio-headphones",
+      "name": "Echo Studio Headphones",
+      "brand": "Lumio",
+      "model": "P19",
+      "categoryId": "Audio",
+      "description": "Echo Studio Headphones brings a considered approach to your everyday setup. Active noise cancellation. 30-hour listening. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "active noise cancellation",
+        "30-hour listening"
+      ],
+      "images": [
+        "/products/headphones.webp",
+        "/products/headphones-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Active noise cancellation"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 14,
+      "publishedAt": "2026-09-19",
+      "highlights": [
+        "Active noise cancellation",
+        "30-hour listening"
+      ],
+      "packageContents": "Echo Studio Headphones, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P20",
+      "slug": "pocket-power-bank",
+      "name": "Pocket Power Bank",
+      "brand": "Orbit",
+      "model": "P20",
+      "categoryId": "Accessories",
+      "description": "Pocket Power Bank brings a considered approach to your everyday setup. 10,000 mAh capacity. USB-C connection. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "10,000 mah capacity",
+        "usb-c connection"
+      ],
+      "images": [
+        "/products/powerbank.webp",
+        "/products/powerbank-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 15,
+      "publishedAt": "2026-09-20",
+      "highlights": [
+        "10,000 mAh capacity",
+        "USB-C connection"
+      ],
+      "packageContents": "Pocket Power Bank, quick-start guide"
+    },
+    {
+      "id": "P21",
+      "slug": "studio-display-mini",
+      "name": "Studio Display Mini",
+      "brand": "Vela",
+      "model": "P21",
+      "categoryId": "Computers",
+      "description": "Studio Display Mini brings a considered approach to your everyday setup. 24-inch display. USB-C connectivity. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "24-inch display",
+        "usb-c connectivity"
+      ],
+      "images": [
+        "/products/monitor.webp",
+        "/products/monitor-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Not specified"
+        },
+        {
+          "label": "RAM",
+          "value": "Not specified"
+        },
+        {
+          "label": "Storage",
+          "value": "Not specified"
+        },
+        {
+          "label": "Display",
+          "value": "24-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C DisplayPort Alt Mode hosts"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 16,
+      "publishedAt": "2026-09-21",
+      "highlights": [
+        "24-inch display",
+        "USB-C connectivity"
+      ],
+      "packageContents": "Studio Display Mini, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P22",
+      "slug": "nova-phone-mini",
+      "name": "Nova Phone Mini",
+      "brand": "Lumio",
+      "model": "P22",
+      "categoryId": "Phones",
+      "description": "Nova Phone Mini brings a considered approach to your everyday setup. 6.2-inch OLED. 128 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "phones",
+        "6.2-inch oled",
+        "128 gb storage"
+      ],
+      "images": [
+        "/products/phone.webp",
+        "/products/phone-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "128 GB"
+        },
+        {
+          "label": "Display",
+          "value": "6.2-inch OLED, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 17,
+      "publishedAt": "2026-09-22",
+      "highlights": [
+        "6.2-inch OLED",
+        "128 GB storage"
+      ],
+      "packageContents": "Nova Phone Mini, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P23",
+      "slug": "arc-sport-earbuds",
+      "name": "Arc Sport Earbuds",
+      "brand": "Vela",
+      "model": "P23",
+      "categoryId": "Audio",
+      "description": "Arc Sport Earbuds brings a considered approach to your everyday setup. Secure everyday fit. Bluetooth 5.3. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "secure everyday fit",
+        "bluetooth 5.3"
+      ],
+      "images": [
+        "/products/earbuds.webp",
+        "/products/earbuds-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 18,
+      "publishedAt": "2026-09-23",
+      "highlights": [
+        "Secure everyday fit",
+        "Bluetooth 5.3"
+      ],
+      "packageContents": "Arc Sport Earbuds, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P24",
+      "slug": "travel-wall-charger",
+      "name": "Travel Wall Charger",
+      "brand": "Orbit",
+      "model": "P24",
+      "categoryId": "Accessories",
+      "description": "Travel Wall Charger brings a considered approach to your everyday setup. USB-C power. Compact format. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "usb-c power",
+        "compact format"
+      ],
+      "images": [
+        "/products/charger.webp",
+        "/products/charger-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 19,
+      "publishedAt": "2026-09-24",
+      "highlights": [
+        "USB-C power",
+        "Compact format"
+      ],
+      "packageContents": "Travel Wall Charger, quick-start guide"
+    },
+    {
+      "id": "P25",
+      "slug": "slate-tablet-pro",
+      "name": "Slate Tablet Pro",
+      "brand": "Lumio",
+      "model": "P25",
+      "categoryId": "Computers",
+      "description": "Slate Tablet Pro brings a considered approach to your everyday setup. 11-inch display. 256 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "11-inch display",
+        "256 gb storage"
+      ],
+      "images": [
+        "/products/tablet.webp",
+        "/products/tablet-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "11-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 20,
+      "publishedAt": "2026-09-25",
+      "highlights": [
+        "11-inch display",
+        "256 GB storage"
+      ],
+      "packageContents": "Slate Tablet Pro, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P26",
+      "slug": "form-keyboard-pro",
+      "name": "Form Keyboard Pro",
+      "brand": "Vela",
+      "model": "P26",
+      "categoryId": "Accessories",
+      "description": "Form Keyboard Pro brings a considered approach to your everyday setup. Tactile switches. Full-size layout. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "tactile switches",
+        "full-size layout"
+      ],
+      "images": [
+        "/products/keyboard.webp",
+        "/products/keyboard-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 21,
+      "publishedAt": "2026-09-26",
+      "highlights": [
+        "Tactile switches",
+        "Full-size layout"
+      ],
+      "packageContents": "Form Keyboard Pro, quick-start guide"
+    },
+    {
+      "id": "P27",
+      "slug": "desk-wireless-mouse",
+      "name": "Desk Wireless Mouse",
+      "brand": "Orbit",
+      "model": "P27",
+      "categoryId": "Accessories",
+      "description": "Desk Wireless Mouse brings a considered approach to your everyday setup. Quiet clicks. USB-C charging. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "quiet clicks",
+        "usb-c charging"
+      ],
+      "images": [
+        "/products/mouse.webp",
+        "/products/mouse-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 22,
+      "publishedAt": "2026-09-27",
+      "highlights": [
+        "Quiet clicks",
+        "USB-C charging"
+      ],
+      "packageContents": "Desk Wireless Mouse, quick-start guide"
+    },
+    {
+      "id": "P28",
+      "slug": "echo-on-ear-headphones",
+      "name": "Echo On-Ear Headphones",
+      "brand": "Lumio",
+      "model": "P28",
+      "categoryId": "Audio",
+      "description": "Echo On-Ear Headphones brings a considered approach to your everyday setup. Bluetooth 5.3. 30-hour listening. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "bluetooth 5.3",
+        "30-hour listening"
+      ],
+      "images": [
+        "/products/headphones.webp",
+        "/products/headphones-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Active noise cancellation"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 23,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "Bluetooth 5.3",
+        "30-hour listening"
+      ],
+      "packageContents": "Echo On-Ear Headphones, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P29",
+      "slug": "braided-usb-c-cable",
+      "name": "Braided USB-C Cable",
+      "brand": "Vela",
+      "model": "P29",
+      "categoryId": "Accessories",
+      "description": "Braided USB-C Cable brings a considered approach to your everyday setup. 60 W charging. Braided finish. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "60 w charging",
+        "braided finish"
+      ],
+      "images": [
+        "/products/cable.webp",
+        "/products/cable-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 24,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "60 W charging",
+        "Braided finish"
+      ],
+      "packageContents": "Braided USB-C Cable, quick-start guide"
+    },
+    {
+      "id": "P30",
+      "slug": "nova-phone-studio",
+      "name": "Nova Phone Studio",
+      "brand": "Lumio",
+      "model": "P30",
+      "categoryId": "Phones",
+      "description": "Nova Phone Studio brings a considered approach to your everyday setup. 6.2-inch OLED. 256 GB storage. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "phones",
+        "6.2-inch oled",
+        "256 gb storage"
+      ],
+      "images": [
+        "/products/phone.webp",
+        "/products/phone-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "Varies by selected option; otherwise 8 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "6.2-inch OLED, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 25,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "6.2-inch OLED",
+        "256 GB storage"
+      ],
+      "packageContents": "Nova Phone Studio, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P31",
+      "slug": "aero-work-laptop",
+      "name": "Aero Work Laptop",
+      "brand": "Vela",
+      "model": "P31",
+      "categoryId": "Computers",
+      "description": "Aero Work Laptop brings a considered approach to your everyday setup. 13.6-inch display. 16 GB RAM. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "computers",
+        "13.6-inch display",
+        "16 gb ram"
+      ],
+      "images": [
+        "/products/laptop.webp",
+        "/products/laptop-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Processor",
+          "value": "Demo A8, 8-core"
+        },
+        {
+          "label": "RAM",
+          "value": "16 GB"
+        },
+        {
+          "label": "Storage",
+          "value": "Varies by selected option; otherwise 256 GB"
+        },
+        {
+          "label": "Display",
+          "value": "13.6-inch IPS, 60 Hz"
+        },
+        {
+          "label": "Ports",
+          "value": "USB-C"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 20 V / 3 A (60 W)"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Demo OS; USB-C accessories"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 26,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "13.6-inch display",
+        "16 GB RAM"
+      ],
+      "packageContents": "Aero Work Laptop, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P32",
+      "slug": "move-home-speaker",
+      "name": "Move Home Speaker",
+      "brand": "Orbit",
+      "model": "P32",
+      "categoryId": "Audio",
+      "description": "Move Home Speaker brings a considered approach to your everyday setup. Bluetooth 5.3. Room-filling sound. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "bluetooth 5.3",
+        "room-filling sound"
+      ],
+      "images": [
+        "/products/speaker.webp",
+        "/products/speaker-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 27,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "Bluetooth 5.3",
+        "Room-filling sound"
+      ],
+      "packageContents": "Move Home Speaker, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P33",
+      "slug": "pocket-usb-c-adapter",
+      "name": "Pocket USB-C Adapter",
+      "brand": "Orbit",
+      "model": "P33",
+      "categoryId": "Accessories",
+      "description": "Pocket USB-C Adapter brings a considered approach to your everyday setup. USB-C connection. Compact format. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "usb-c connection",
+        "compact format"
+      ],
+      "images": [
+        "/products/adapter.webp",
+        "/products/adapter-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 28,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "USB-C connection",
+        "Compact format"
+      ],
+      "packageContents": "Pocket USB-C Adapter, quick-start guide"
+    },
+    {
+      "id": "P34",
+      "slug": "arc-everyday-earbuds",
+      "name": "Arc Everyday Earbuds",
+      "brand": "Vela",
+      "model": "P34",
+      "categoryId": "Audio",
+      "description": "Arc Everyday Earbuds brings a considered approach to your everyday setup. Bluetooth 5.3. USB-C charging. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "audio",
+        "bluetooth 5.3",
+        "usb-c charging"
+      ],
+      "images": [
+        "/products/earbuds.webp",
+        "/products/earbuds-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Connection",
+          "value": "Bluetooth 5.3 / USB-C"
+        },
+        {
+          "label": "Battery life",
+          "value": "Up to 30 hours (demo specification)"
+        },
+        {
+          "label": "Noise cancellation",
+          "value": "Not specified"
+        },
+        {
+          "label": "Compatibility",
+          "value": "Bluetooth-enabled iOS, Android, Windows and macOS devices"
+        },
+        {
+          "label": "Power",
+          "value": "USB-C, 5 V / 1 A (5 W)"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 29,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "Bluetooth 5.3",
+        "USB-C charging"
+      ],
+      "packageContents": "Arc Everyday Earbuds, quick-start guide, USB-C cable"
+    },
+    {
+      "id": "P35",
+      "slug": "travel-power-bank",
+      "name": "Travel Power Bank",
+      "brand": "Orbit",
+      "model": "P35",
+      "categoryId": "Accessories",
+      "description": "Travel Power Bank brings a considered approach to your everyday setup. 20,000 mAh capacity. USB-C power. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "20,000 mah capacity",
+        "usb-c power"
+      ],
+      "images": [
+        "/products/powerbank.webp",
+        "/products/powerbank-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 30,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "20,000 mAh capacity",
+        "USB-C power"
+      ],
+      "packageContents": "Travel Power Bank, quick-start guide"
+    },
+    {
+      "id": "P36",
+      "slug": "studio-portable-usb-c-multiport-dock-with-hdmi-usb-a-and-power-delivery-for-your-everyday-workspace",
+      "name": "Studio Portable USB-C Multiport Dock with HDMI, USB-A and Power Delivery for Your Everyday Workspace",
+      "brand": "Vela",
+      "model": "P36",
+      "categoryId": "Accessories",
+      "description": "Studio Portable USB-C Multiport Dock with HDMI, USB-A and Power Delivery for Your Everyday Workspace brings a considered approach to your everyday setup. USB-C connection. 60 W pass-through. Explore the available options to find your fit. All specifications and branding are fictional demo data.",
+      "keywords": [
+        "accessories",
+        "usb-c connection",
+        "60 w pass-through"
+      ],
+      "images": [
+        "/products/hub.webp",
+        "/products/hub-detail.webp"
+      ],
+      "specifications": [
+        {
+          "label": "Interface",
+          "value": "USB-C"
+        },
+        {
+          "label": "Input power",
+          "value": "5–20 V, up to 3 A (60 W)"
+        },
+        {
+          "label": "Output power",
+          "value": "Up to 60 W; varies by host device"
+        },
+        {
+          "label": "Compatibility",
+          "value": "USB-C phones and computers; host support required"
+        }
+      ],
+      "optionDefinitions": [
+        {
+          "name": "Color",
+          "values": [
+            "Graphite",
+            "Silver",
+            "Sand"
+          ]
+        }
+      ],
+      "status": "active",
+      "featuredRank": 31,
+      "publishedAt": "2026-09-28",
+      "highlights": [
+        "USB-C connection",
+        "60 W pass-through"
+      ],
+      "packageContents": "Studio Portable USB-C Multiport Dock with HDMI, USB-A and Power Delivery for Your Everyday Workspace, quick-start guide"
+    }
+  ],
+  "skus": [
+    {
+      "id": "NP-B128",
+      "productId": "P01",
+      "options": {
+        "Color": "Black",
+        "Storage": "128 GB"
+      },
+      "priceCents": 49999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "NP-B256",
+      "productId": "P01",
+      "options": {
+        "Color": "Black",
+        "Storage": "256 GB"
+      },
+      "priceCents": 59999,
+      "initialStock": 2,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "NP-S128",
+      "productId": "P01",
+      "options": {
+        "Color": "Silver",
+        "Storage": "128 GB"
+      },
+      "priceCents": 49999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-silver.webp"
+    },
+    {
+      "id": "AL-16512",
+      "productId": "P02",
+      "options": {
+        "RAM": "16 GB",
+        "Storage": "512 GB"
+      },
+      "priceCents": 129999,
+      "initialStock": 6,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "EH-B",
+      "productId": "P03",
+      "options": {
+        "Color": "Black"
+      },
+      "priceCents": 9999,
+      "initialStock": 3,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "EH-W",
+      "productId": "P03",
+      "options": {
+        "Color": "White"
+      },
+      "priceCents": 10999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/headphones-white.webp"
+    },
+    {
+      "id": "UC-1",
+      "productId": "P04",
+      "options": {
+        "Length": "1 m"
+      },
+      "priceCents": 1999,
+      "initialStock": 20,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "UA-1",
+      "productId": "P05",
+      "options": {},
+      "priceCents": 550,
+      "initialStock": 99,
+      "maxPerOrder": 99,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "SC-1",
+      "productId": "P06",
+      "options": {},
+      "priceCents": 4999,
+      "initialStock": 1,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "PS-1",
+      "productId": "P07",
+      "options": {
+        "Color": "Black"
+      },
+      "priceCents": 7999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "AP-1",
+      "productId": "P08",
+      "options": {},
+      "priceCents": 29999,
+      "initialStock": 10,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "RH-1",
+      "productId": "P09",
+      "options": {},
+      "priceCents": 3999,
+      "initialStock": 5,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "archived"
+    },
+    {
+      "id": "P10-1",
+      "productId": "P10",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 6999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P10-2",
+      "productId": "P10",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 7999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-silver.webp"
+    },
+    {
+      "id": "P10-3",
+      "productId": "P10",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 8999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-sand.webp"
+    },
+    {
+      "id": "P11-1",
+      "productId": "P11",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 32999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P11-2",
+      "productId": "P11",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 33999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/monitor-silver.webp"
+    },
+    {
+      "id": "P11-3",
+      "productId": "P11",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 34999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/monitor-sand.webp"
+    },
+    {
+      "id": "P12-1",
+      "productId": "P12",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 8999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P12-2",
+      "productId": "P12",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 9999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/keyboard-silver.webp"
+    },
+    {
+      "id": "P12-3",
+      "productId": "P12",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 10999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/keyboard-sand.webp"
+    },
+    {
+      "id": "P13-1",
+      "productId": "P13",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 34999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P13-2",
+      "productId": "P13",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 35999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/tablet-silver.webp"
+    },
+    {
+      "id": "P13-3",
+      "productId": "P13",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 36999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/tablet-sand.webp"
+    },
+    {
+      "id": "P14-1",
+      "productId": "P14",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 3999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P14-2",
+      "productId": "P14",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 4999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/mouse-silver.webp"
+    },
+    {
+      "id": "P14-3",
+      "productId": "P14",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 5999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/mouse-sand.webp"
+    },
+    {
+      "id": "P15-1",
+      "productId": "P15",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 5999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P15-2",
+      "productId": "P15",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 6999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/speaker-silver.webp"
+    },
+    {
+      "id": "P15-3",
+      "productId": "P15",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 7999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/speaker-sand.webp"
+    },
+    {
+      "id": "P16-1",
+      "productId": "P16",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 69999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P16-2",
+      "productId": "P16",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 70999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-silver.webp"
+    },
+    {
+      "id": "P16-3",
+      "productId": "P16",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 71999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-sand.webp"
+    },
+    {
+      "id": "P17-1",
+      "productId": "P17",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 6999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P17-2",
+      "productId": "P17",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 7999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/hub-silver.webp"
+    },
+    {
+      "id": "P17-3",
+      "productId": "P17",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 8999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/hub-sand.webp"
+    },
+    {
+      "id": "P18-1",
+      "productId": "P18",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 99999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P18-2",
+      "productId": "P18",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 100999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/laptop-silver.webp"
+    },
+    {
+      "id": "P18-3",
+      "productId": "P18",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 101999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/laptop-sand.webp"
+    },
+    {
+      "id": "P19-1",
+      "productId": "P19",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 14999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P19-2",
+      "productId": "P19",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 15999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/headphones-silver.webp"
+    },
+    {
+      "id": "P19-3",
+      "productId": "P19",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 16999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/headphones-sand.webp"
+    },
+    {
+      "id": "P20-1",
+      "productId": "P20",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 4599,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P20-2",
+      "productId": "P20",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 5599,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/powerbank-silver.webp"
+    },
+    {
+      "id": "P20-3",
+      "productId": "P20",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 6599,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/powerbank-sand.webp"
+    },
+    {
+      "id": "P21-1",
+      "productId": "P21",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 22999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P21-2",
+      "productId": "P21",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 23999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/monitor-silver.webp"
+    },
+    {
+      "id": "P21-3",
+      "productId": "P21",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 24999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/monitor-sand.webp"
+    },
+    {
+      "id": "P22-1",
+      "productId": "P22",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 39999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P22-2",
+      "productId": "P22",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 40999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-silver.webp"
+    },
+    {
+      "id": "P22-3",
+      "productId": "P22",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 41999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-sand.webp"
+    },
+    {
+      "id": "P23-1",
+      "productId": "P23",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 8999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P23-2",
+      "productId": "P23",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 9999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-silver.webp"
+    },
+    {
+      "id": "P23-3",
+      "productId": "P23",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 10999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-sand.webp"
+    },
+    {
+      "id": "P24-1",
+      "productId": "P24",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 2999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P24-2",
+      "productId": "P24",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 3999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/charger-silver.webp"
+    },
+    {
+      "id": "P24-3",
+      "productId": "P24",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 4999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/charger-sand.webp"
+    },
+    {
+      "id": "P25-1",
+      "productId": "P25",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 54999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P25-2",
+      "productId": "P25",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 55999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/tablet-silver.webp"
+    },
+    {
+      "id": "P25-3",
+      "productId": "P25",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 56999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/tablet-sand.webp"
+    },
+    {
+      "id": "P26-1",
+      "productId": "P26",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 11999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P26-2",
+      "productId": "P26",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 12999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/keyboard-silver.webp"
+    },
+    {
+      "id": "P26-3",
+      "productId": "P26",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 13999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/keyboard-sand.webp"
+    },
+    {
+      "id": "P27-1",
+      "productId": "P27",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 2999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P27-2",
+      "productId": "P27",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 3999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/mouse-silver.webp"
+    },
+    {
+      "id": "P27-3",
+      "productId": "P27",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 4999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/mouse-sand.webp"
+    },
+    {
+      "id": "P28-1",
+      "productId": "P28",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 7999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P28-2",
+      "productId": "P28",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 8999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/headphones-silver.webp"
+    },
+    {
+      "id": "P28-3",
+      "productId": "P28",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 9999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/headphones-sand.webp"
+    },
+    {
+      "id": "P29-1",
+      "productId": "P29",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 2499,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P29-2",
+      "productId": "P29",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 3499,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/cable-silver.webp"
+    },
+    {
+      "id": "P29-3",
+      "productId": "P29",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 4499,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/cable-sand.webp"
+    },
+    {
+      "id": "P30-1",
+      "productId": "P30",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 79999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P30-2",
+      "productId": "P30",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 80999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-silver.webp"
+    },
+    {
+      "id": "P30-3",
+      "productId": "P30",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 81999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/phone-sand.webp"
+    },
+    {
+      "id": "P31-1",
+      "productId": "P31",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 149999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P31-2",
+      "productId": "P31",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 150999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/laptop-silver.webp"
+    },
+    {
+      "id": "P31-3",
+      "productId": "P31",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 151999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/laptop-sand.webp"
+    },
+    {
+      "id": "P32-1",
+      "productId": "P32",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 12999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P32-2",
+      "productId": "P32",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 13999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/speaker-silver.webp"
+    },
+    {
+      "id": "P32-3",
+      "productId": "P32",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 14999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/speaker-sand.webp"
+    },
+    {
+      "id": "P33-1",
+      "productId": "P33",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 1499,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P33-2",
+      "productId": "P33",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 2499,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/adapter-silver.webp"
+    },
+    {
+      "id": "P33-3",
+      "productId": "P33",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 3499,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/adapter-sand.webp"
+    },
+    {
+      "id": "P34-1",
+      "productId": "P34",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 4999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P34-2",
+      "productId": "P34",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 5999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-silver.webp"
+    },
+    {
+      "id": "P34-3",
+      "productId": "P34",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 6999,
+      "initialStock": 0,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/earbuds-sand.webp"
+    },
+    {
+      "id": "P35-1",
+      "productId": "P35",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 5999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P35-2",
+      "productId": "P35",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 6999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/powerbank-silver.webp"
+    },
+    {
+      "id": "P35-3",
+      "productId": "P35",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 7999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/powerbank-sand.webp"
+    },
+    {
+      "id": "P36-1",
+      "productId": "P36",
+      "options": {
+        "Color": "Graphite"
+      },
+      "priceCents": 9999,
+      "initialStock": 8,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active"
+    },
+    {
+      "id": "P36-2",
+      "productId": "P36",
+      "options": {
+        "Color": "Silver"
+      },
+      "priceCents": 10999,
+      "initialStock": 12,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/hub-silver.webp"
+    },
+    {
+      "id": "P36-3",
+      "productId": "P36",
+      "options": {
+        "Color": "Sand"
+      },
+      "priceCents": 11999,
+      "initialStock": 16,
+      "maxPerOrder": 10,
+      "currency": "USD",
+      "status": "active",
+      "imageId": "/products/hub-sand.webp"
+    }
+  ]
+}

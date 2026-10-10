@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+public
+artifacts
+playwright-report
+test-results
+docs/product-selection-*.md
+package-lock.json
