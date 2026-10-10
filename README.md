@@ -22,6 +22,14 @@ PORT=3017 npm start
 
 页面：`/`、`/products/[slug]/`、`/cart/`、`/checkout/`、`/order/?id=demo-…`、`/demo-info/`。36 个商品详情在构建时预生成，未知路径返回 404。
 
+### Vercel 部署
+
+仓库中的 `vercel.json` 明确使用静态托管（Framework Preset 为 Other），执行 `npm ci --include=dev` 和 `npm run build`，发布 `out/`，并保留尾斜杠。Vercel 的 Root Directory 应指向同时包含 `package.json`、`next.config.ts` 和 `vercel.json` 的目录；当前仓库为根目录。提交配置后需触发包含新提交的部署，旧部署不会自动改变。
+
+若出现平台级 `404 NOT_FOUND`，先检查该次部署的构建日志与输出：应包含 `out/index.html`、`out/cart/index.html` 和商品详情 HTML。确认访问的是新部署的地址。当前应用有预生成页面，不需要把所有请求重写到首页。
+
+`package.json` 的 `allowScripts` 仅批准锁定的 `esbuild@0.28.2` 安装脚本，用于准备和校验 `tsx` 所依赖的原生构建程序。升级该依赖后，在支持此命令的 npm 版本中执行 `npm install-scripts ls` 审查，再用 `npm install-scripts approve esbuild` 更新批准版本。旧版 npm 没有此命令；不需要为此修改全局 npm。
+
 ## 功能
 
 - 固定 JSON 目录：36 个商品、93 个 SKU，四类电子产品；含缺货、归档、唯一规格和多规格。默认可发现 34 个商品，另 2 个保留不可售详情。
